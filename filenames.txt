@@ -1,0 +1,5 @@
+/Volumes/myfiles/unlv_video_lectures/class1/largefileex1.mov
+/Volumes/myfiles/unlv_video_lectures/class1/largefileex2.mov
+/Volumes/myfiles/unlv_video_lectures/class1/largefileex3.mov
+/Volumes/myfiles/unlv_video_lectures/class1/largefileex4.mov
+/Volumes/myfiles/unlv_video_lectures/class1/largefileex5.mov
